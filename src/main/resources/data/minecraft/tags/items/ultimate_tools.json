@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "ultimatetool:netherite_ultimate_tool",
     "ultimatetool:diamond_ultimate_tool",
     "ultimatetool:golden_ultimate_tool",
     "ultimatetool:iron_ultimate_tool",
