@@ -25,11 +25,11 @@
       "item": "minecraft:gold_hoe"
     },
     "U": {
-      "item": "ultimatetools:golden_ring"
+      "item": "ultimatetool:golden_ring"
     }
   },
   "result": {
-    "item": "ultimatetools:golden_ultimate_tool",
+    "item": "ultimatetool:golden_ultimate_tool",
     "count": 1
   }
 }

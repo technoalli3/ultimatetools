@@ -25,11 +25,11 @@
       "item": "minecraft:stone_hoe"
     },
     "U": {
-      "item": "ultimatetools:stone_ring"
+      "item": "ultimatetool:stone_ring"
     }
   },
   "result": {
-    "item": "ultimatetools:stone_ultimate_tool",
+    "item": "ultimatetool:stone_ultimate_tool",
     "count": 1
   }
 }

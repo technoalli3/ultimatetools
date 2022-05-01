@@ -1,4 +1,5 @@
 {
+  "item.ultimatetool.netherite_ultimate_tool": "Netherite Ultimate Tool",
   "item.ultimatetool.diamond_ultimate_tool": "Diamond Ultimate Tool",
   "item.ultimatetool.golden_ultimate_tool": "Golden Ultimate Tool",
   "item.ultimatetool.iron_ultimate_tool": "Iron Ultimate Tool",
@@ -10,5 +11,6 @@
   "item.ultimatetool.stone_ring": "Stone Ring",
   "item.ultimatetool.wooden_ring": "Wooden Ring",
   "category.ultimatetool.tool": "Ultimate Tool Settings",
-  "key.ultimatetool.toggle": "Toggle between shovel and hoe mode"
+  "key.ultimatetool.toggle": "Toggle between shovel and hoe mode",
+  "key.ultimatetool.shears": "Toggle between shearing and breaking plants"
 }

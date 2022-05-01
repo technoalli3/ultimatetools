@@ -25,11 +25,11 @@
       "item": "minecraft:wood_hoe"
     },
     "U": {
-      "item": "ultimatetools:wooden_ring"
+      "item": "ultimatetool:wooden_ring"
     }
   },
   "result": {
-    "item": "ultimatetools:wooden_ultimate_tool",
+    "item": "ultimatetool:wooden_ultimate_tool",
     "count": 1
   }
 }

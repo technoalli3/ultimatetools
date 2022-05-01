@@ -25,11 +25,11 @@
       "item": "minecraft:diamond_hoe"
     },
     "U": {
-      "item": "ultimatetools:diamond_ring"
+      "item": "ultimatetool:diamond_ring"
     }
   },
   "result": {
-    "item": "ultimatetools:diamond_ultimate_tool",
+    "item": "ultimatetool:diamond_ultimate_tool",
     "count": 1
   }
 }

@@ -25,11 +25,11 @@
       "item": "minecraft:iron_hoe"
     },
     "U": {
-      "item": "ultimatetools:iron_ring"
+      "item": "ultimatetool:iron_ring"
     }
   },
   "result": {
-    "item": "ultimatetools:iron_ultimate_tool",
+    "item": "ultimatetool:iron_ultimate_tool",
     "count": 1
   }
 }

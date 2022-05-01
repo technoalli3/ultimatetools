@@ -10,7 +10,6 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
     //items
-    public static final Item NETHERITE_RING = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item DIAMOND_RING = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item GOLDEN_RING = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item IRON_RING = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
@@ -26,7 +25,6 @@ public class ModItems {
 
     public static void RegisterItems() {
         //items
-        Registry.register(Registry.ITEM, new Identifier(UltimateToolMain.MOD_ID, "netherite_ring"), NETHERITE_RING);
         Registry.register(Registry.ITEM, new Identifier(UltimateToolMain.MOD_ID, "diamond_ring"), DIAMOND_RING);
         Registry.register(Registry.ITEM, new Identifier(UltimateToolMain.MOD_ID, "golden_ring"), GOLDEN_RING);
         Registry.register(Registry.ITEM, new Identifier(UltimateToolMain.MOD_ID, "iron_ring"), IRON_RING);
