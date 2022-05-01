@@ -9,3 +9,7 @@ To operate the multitools, you'll need to make use of the two keybound functions
 - `;` key: Toggle between shearing plant blocks (leaves, grass, etc) versus just breaking it.
 
 *You can modify keybinds in the default Minecraft keybind menu*
+
+
+## Recipes
+The ultimate tools follow the same format for all 6 tiers, with minor variations in stone and wooden recipes.
