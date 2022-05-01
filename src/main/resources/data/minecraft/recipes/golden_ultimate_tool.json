@@ -7,22 +7,22 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:gold_sword"
+      "item": "minecraft:golden_sword"
     },
     "D": {
-      "item": "minecraft:gold_axe"
+      "item": "minecraft:golden_axe"
     },
     "S": {
       "item": "minecraft:shears"
     },
     "R": {
-      "item": "minecraft:gold_pickaxe"
+      "item": "minecraft:golden_pickaxe"
     },
     "F": {
-      "item": "minecraft:gold_shovel"
+      "item": "minecraft:golden_shovel"
     },
     "I": {
-      "item": "minecraft:gold_hoe"
+      "item": "minecraft:golden_hoe"
     },
     "U": {
       "item": "ultimatetool:golden_ring"

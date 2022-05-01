@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "# D",
-    " SR",
+    "  D",
+    " #R",
     "FIU"
   ],
   "key": {
     "#": {
-      "item": "minecraft:wood_sword"
+      "item": "minecraft:wooden_sword"
     },
     "D": {
-      "item": "minecraft:wood_axe"
-    },
-    "S": {
-      "item": "minecraft:shears"
+      "item": "minecraft:wooden_axe"
     },
     "R": {
-      "item": "minecraft:wood_pickaxe"
+      "item": "minecraft:wooden_pickaxe"
     },
     "F": {
-      "item": "minecraft:wood_shovel"
+      "item": "minecraft:wooden_shovel"
     },
     "I": {
-      "item": "minecraft:wood_hoe"
+      "item": "minecraft:wooden_hoe"
     },
     "U": {
       "item": "ultimatetool:wooden_ring"

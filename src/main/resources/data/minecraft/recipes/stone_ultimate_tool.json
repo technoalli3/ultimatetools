@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "# D",
-    " SR",
+    "  D",
+    " #R",
     "FIU"
   ],
   "key": {
@@ -11,9 +11,6 @@
     },
     "D": {
       "item": "minecraft:stone_axe"
-    },
-    "S": {
-      "item": "minecraft:shears"
     },
     "R": {
       "item": "minecraft:stone_pickaxe"
