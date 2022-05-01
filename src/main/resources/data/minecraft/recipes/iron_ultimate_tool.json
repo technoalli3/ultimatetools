@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# D",
+    " SR",
+    "FIU"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_sword"
+    },
+    "D": {
+      "item": "minecraft:iron_axe"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "R": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "F": {
+      "item": "minecraft:iron_shovel"
+    },
+    "I": {
+      "item": "minecraft:iron_hoe"
+    },
+    "U": {
+      "item": "ultimatetools:iron_ring"
+    }
+  },
+  "result": {
+    "item": "ultimatetools:iron_ultimate_tool",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ultimatetool:diamond_ultimate_tool",
+    "ultimatetool:golden_ultimate_tool",
+    "ultimatetool:iron_ultimate_tool",
+    "ultimatetool:stone_ultimate_tool",
+    "ultimatetool:wooden_ultimate_tool"
+  ]
+}

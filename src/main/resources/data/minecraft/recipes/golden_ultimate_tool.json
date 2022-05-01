@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# D",
+    " SR",
+    "FIU"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_sword"
+    },
+    "D": {
+      "item": "minecraft:gold_axe"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "R": {
+      "item": "minecraft:gold_pickaxe"
+    },
+    "F": {
+      "item": "minecraft:gold_shovel"
+    },
+    "I": {
+      "item": "minecraft:gold_hoe"
+    },
+    "U": {
+      "item": "ultimatetools:golden_ring"
+    }
+  },
+  "result": {
+    "item": "ultimatetools:golden_ultimate_tool",
+    "count": 1
+  }
+}

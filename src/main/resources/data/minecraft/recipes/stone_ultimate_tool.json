@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# D",
+    " SR",
+    "FIU"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_sword"
+    },
+    "D": {
+      "item": "minecraft:stone_axe"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "R": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "F": {
+      "item": "minecraft:stone_shovel"
+    },
+    "I": {
+      "item": "minecraft:stone_hoe"
+    },
+    "U": {
+      "item": "ultimatetools:stone_ring"
+    }
+  },
+  "result": {
+    "item": "ultimatetools:stone_ultimate_tool",
+    "count": 1
+  }
+}

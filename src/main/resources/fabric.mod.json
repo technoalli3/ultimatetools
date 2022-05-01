@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ultimatetool",
+  "version": "${version}",
+
+  "name": "Ultimate Tools",
+  "description": "A simple mod that adds tiers of ultimate tools - tools that are all 5 combined into 1.",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "LGPL-3.0",
+  "icon": "assets/ultimatetool/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.alli.ultimatetool.UltimateToolClient"
+    ],
+    "main": [
+      "com.alli.ultimatetool.UltimateToolMain"
+    ]
+  },
+  "mixins": [
+    "ultimatetool.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

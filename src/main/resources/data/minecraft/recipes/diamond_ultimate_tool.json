@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# D",
+    " SR",
+    "FIU"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_sword"
+    },
+    "D": {
+      "item": "minecraft:diamond_axe"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    },
+    "R": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "F": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "I": {
+      "item": "minecraft:diamond_hoe"
+    },
+    "U": {
+      "item": "ultimatetools:diamond_ring"
+    }
+  },
+  "result": {
+    "item": "ultimatetools:diamond_ultimate_tool",
+    "count": 1
+  }
+}

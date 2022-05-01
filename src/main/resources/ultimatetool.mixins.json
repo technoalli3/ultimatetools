@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.alli.ultimatetool.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CarvePumpkinMixin",
+    "ShearSheepMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

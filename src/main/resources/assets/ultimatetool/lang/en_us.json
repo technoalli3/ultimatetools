@@ -1,0 +1,14 @@
+{
+  "item.ultimatetool.diamond_ultimate_tool": "Diamond Ultimate Tool",
+  "item.ultimatetool.golden_ultimate_tool": "Golden Ultimate Tool",
+  "item.ultimatetool.iron_ultimate_tool": "Iron Ultimate Tool",
+  "item.ultimatetool.stone_ultimate_tool": "Stone Ultimate Tool",
+  "item.ultimatetool.wooden_ultimate_tool": "Wooden Ultimate Tool",
+  "item.ultimatetool.diamond_ring": "Diamond Ring",
+  "item.ultimatetool.golden_ring": "Golden Ring",
+  "item.ultimatetool.iron_ring": "Iron Ring",
+  "item.ultimatetool.stone_ring": "Stone Ring",
+  "item.ultimatetool.wooden_ring": "Wooden Ring",
+  "category.ultimatetool.tool": "Ultimate Tool Settings",
+  "key.ultimatetool.toggle": "Toggle between shovel and hoe mode"
+}

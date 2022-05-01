@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ultimatetool:item/wooden_ultimate_tool"
+  }
+}
