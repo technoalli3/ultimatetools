@@ -6,7 +6,7 @@
   "name": "Ultimate Tools",
   "description": "A simple mod that adds tiers of ultimate tools - tools that are all 5 combined into 1.",
   "authors": [
-    "Me!"
+    "TechnoAlli3"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -32,7 +32,7 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
-    "minecraft": "1.19.1",
+    "minecraft": "1.19.2",
     "java": ">=17"
   },
   "suggests": {
